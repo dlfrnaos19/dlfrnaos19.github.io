@@ -24,8 +24,8 @@ description              : "머신러닝과 파이썬에 관심이 많습니다 
 url                      : https://dlfrnaos19.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "\\assets\\images\\puppies.jpg"
-logo                     : "\\assets\\images\\noproblem.png"
+teaser                   : "/assets/images/puppies.jpg"
+logo                     : "/assets/images/noproblem.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/noproblem.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
