@@ -20,9 +20,15 @@ last_modified_at: 2022-01-07T08:06:00-05:00
 >> markdown test
 >>> markdown test
 ```
+*markdown test*
+**markdown test**
+> markdown test
+>> markdown test
+>>> markdown test
 ```
 - - -
 ```
+- - -
 ```python
 s = 'hello people'
 print(s)
@@ -32,6 +38,7 @@ len('hello')
 ## link expression
 [title](link)
 ```
+[google](google.com)
 ## image input
 ```
 ![](image link){: .align-center}
@@ -43,6 +50,11 @@ len('hello')
 | 라면 | 800원 | 10개 |
 | 과자 | 900원 | 20개 |
 ```
+| 항목 | 가격 | 개수 |
+|:---:|:----:|:----|
+| 라면 | 800원 | 10개 |
+| 과자 | 900원 | 20개 |
+
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.
 
