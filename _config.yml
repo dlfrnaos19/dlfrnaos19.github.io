@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ambitious Python Developer"
+  name             : "Running with Machine Learning Learner"
   avatar           : "assets/images/noproblem.png"
   bio              : "Python\nTensorflow\nScikit-Learn\nFastAPI\nRequests\nSelenium"
   location         : "Located in Busan"
