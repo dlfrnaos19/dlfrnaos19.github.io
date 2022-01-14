@@ -1,9 +1,9 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "깃 블로그 마크다운 참고글"
+excerpt: "앞으로 깃블로그 하면서 참고할 마크다운 참고글 입니다"
 toc: true
 toc_sticky: true
-toc_label: "페이지 주요 목차"
+toc_label: "페이지 목차"
 categories:
   - Blog
 tags:
