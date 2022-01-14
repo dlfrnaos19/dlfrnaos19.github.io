@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "깃 블로그 마크다운 참고글"
-excerpt: "앞으로 깃블로그 하면서 참고할 마크다운 참고글 입니다"
+title:  "두번째 테스트 글"
+excerpt: "앞으로 깃블로그 하면서 블로그 구조를 파악하기 위한 글"
 toc: true
 toc_sticky: true
 toc_label: "페이지 목차"
