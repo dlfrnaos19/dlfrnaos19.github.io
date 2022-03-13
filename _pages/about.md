@@ -8,7 +8,7 @@ layout: single
 # 인생 2회차, 팀워크의 진수, 여전히 미래를 꿈꾸는 신입
 - - -
 ## __김일구__ (ILGU KIM)  
-<img src="/assets/images/DSC_7622a.jpg" title="cv pic" alt="face_image">
+<img src="assets/images/DSC_7622a.jpg" title="cv pic" alt="face_image">
 ![my_face](/assets/images/DSC_7622a.jpg)
 🏡 부산  
 📞 010-2853-0868  
