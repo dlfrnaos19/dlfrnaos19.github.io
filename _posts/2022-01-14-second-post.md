@@ -15,3 +15,5 @@ date: 2022-01-14
 
 아직 연습해봐야 할 것이 많습니다
 깃블로그에 익숙해지는 중
+
+![image](/assets/images/kitten.png)
