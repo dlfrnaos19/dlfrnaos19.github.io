@@ -8,7 +8,7 @@ layout: single
 # 인생 2회차, 팀워크의 진수, 여전히 미래를 꿈꾸는 신입
 - - -
 ## __김일구__ (ILGU KIM)  
-<img src="https://dlfrnaos19.github.io/dlfrnaos19.github.io/assets/images/DSC_7822a.jpg" title="cv pic" width=40% height=40% alt="face_image">  
+<img src="https://github.com/dlfrnaos19/dlfrnaos19.github.io/blob/master/assets/images/DSC_7622a.jpg" title="cv pic" width=40% height=40% alt="face_image">  
 <img src="dlfrnaos19.github.io/../../assets/images/DSC_7622a.jpg" title="cv pic" width=50% height=50% alt="face_image">  
 <img src="https://dlfrnaos19.github.io/../../../assets/images/DSC_7622a.jpg" title="cv pic" alt="face_image">  
 <img src="/blob/main/assets/images/DSC_7622a.jpg" title="cv pic" alt="face_image">  
