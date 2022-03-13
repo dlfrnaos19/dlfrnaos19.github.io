@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Learning and Machine Learning"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "프로그래밍이 재밌어지는 개발자"
+name                     : "Data가 부리는 마법"
 description              : "머신러닝과 파이썬에 관심이 많습니다 Scikit-Learn, Tensowflow, Pandas, Numpy가 주요 사용 라이브러리이며 API를 다루기 위해 Requests와 Selenium을 사용합니다. API제작용으로 FastAPI를 학습하고 있습니다"
 url                      : https://dlfrnaos19.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -192,7 +192,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
