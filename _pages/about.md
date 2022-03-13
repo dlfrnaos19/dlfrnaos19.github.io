@@ -1,6 +1,6 @@
 ---
 title: "이 블로그 설명서"
-permalink: /about/
+permalink: dlfrnaos19.github.io
 layout: single
 ---
 
