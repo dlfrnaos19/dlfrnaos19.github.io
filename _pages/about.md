@@ -1,6 +1,6 @@
 ---
 title: "이 블로그 설명서"
-permalink: dlfrnaos19.github.io
+permalink: https://dlfrnaos19.github.io/
 layout: single
 ---
 
@@ -27,7 +27,7 @@ layout: single
 자연어 처리와 추천 시스템에 대한 흥미를 가지고 있습니다
 
 __보유기술 및 관심 분야__
-- 프로그래밍언어 : Python(main), Javascript(basic)
+- 프로그래밍언어 : Python(기본), Javascript(입문)
 - 프레임워크/라이브러리:  
 ML :   
 Tensorflow, Pytorch, Scikit-Learn, Transformer(HuggingFace)  
