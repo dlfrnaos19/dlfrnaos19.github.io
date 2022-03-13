@@ -10,8 +10,8 @@ layout: single
 ## __김일구__ (ILGU KIM)  
 <img src="./images/DSC_7622a.jpg" title="cv pic" width=40% height=40% alt="face_image">  
 <img src="/images/DSC_7622a.jpg" title="cv pic" width=50% height=50% alt="face_image">  
-<img src="images/DSC_7622a.jpg" title="cv pic" alt="face_image">  
-![image_alt](/images/DSC_7622a.jpg)  
+<img src="../images/DSC_7622a.jpg" title="cv pic" alt="face_image">  
+![image_alt]({{'/images/DSC_7622a.jpg' | about }})  
 
 
 
